@@ -36,11 +36,11 @@
 ![PANDAS](https://img.shields.io/badge/PANDAS-%23593d88.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/NUMPY-black?style=for-the-badge&logo=numpy&logoColor=white)
 ![SKLEARN](https://img.shields.io/badge/SKLEARN-%2338B2AC.svg?style=for-the-badge&logo=sklearn&logoColor=white)
+![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter%20Notebook-316192?style=for-the-badge&logo=JupyterNotebook&logoColor=white)
 
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-black?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![SEABORN](https://img.shields.io/badge/SEABORN-%23E0234E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![PLOTLY](https://img.shields.io/badge/PLOTLY-%230081CB.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
 ![YANDEX DATALENS](https://img.shields.io/badge/yandex%20datalens-black?style=for-the-badge&logo=yandexdatalens&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
