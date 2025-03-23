@@ -50,6 +50,8 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 Свяжитесь со мной: [![Telegram Badge](https://img.shields.io/badge/-AnnaV_Winter-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnnaV_Winter) 
