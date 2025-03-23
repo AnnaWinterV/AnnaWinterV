@@ -29,6 +29,8 @@
 
 ### :octocat: Pet-проекты  :
 
+<a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
+
 ---
 
 ### :hammer_and_wrench: Навыки и умения :
