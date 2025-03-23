@@ -30,9 +30,8 @@
 - Готова приступить к работе в самые короткие сроки
 
 ### 🗞️ Дипломы и Сертификаты  :
-<a href="https://drive.google.com/file/d/1NNG7NWS5XWw1orC02CXbJhM4GNDda4Yn/view?usp=sharing" rel="nofollow">Диплом об образовании/>
-</a>
-<a href="https://drive.google.com/file/d/1JYnLc0yos55Y0gRdiczv4QRz3nPetUNo/view?usp=sharing" rel="nofollow">Диплом о переподготовке</a>
+- <a href="https://drive.google.com/file/d/1NNG7NWS5XWw1orC02CXbJhM4GNDda4Yn/view?usp=sharing" rel="nofollow">Диплом об образовании</a>
+- <a href="https://drive.google.com/file/d/1JYnLc0yos55Y0gRdiczv4QRz3nPetUNo/view?usp=sharing" rel="nofollow">Диплом о переподготовке</a>
 
 ### :octocat: Pet-проекты  :
 
