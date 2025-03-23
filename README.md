@@ -52,6 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://camo.githubusercontent.com/12f001f1a8e291563ecb4d92eda9a22aa82b3c437d5adf0a9cb25aecd6818767/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d556c79616e61566572266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;">
 ---
 
 Свяжитесь со мной: [![Telegram Badge](https://img.shields.io/badge/-AnnaV_Winter-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnnaV_Winter) 
