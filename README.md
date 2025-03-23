@@ -29,7 +29,7 @@
 
 ### :octocat: Pet-проекты  :
 
-<a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
+- <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
 
 ---
 
