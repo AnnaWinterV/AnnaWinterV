@@ -49,10 +49,6 @@
 ![DBEAVER](https://img.shields.io/badge/DBEAVER-371777?style=for-the-badge&logo=dbeaver&logoColor=white)
 ---
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
