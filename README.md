@@ -46,7 +46,7 @@
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-6DA55F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLITE-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2361DAFB)
-![DBEAVER](https://img.shields.io/badge/DBEAVER-%2320232a.svg?style=for-the-badge&logo=dbeaver&logoColor=%2361DAFB)
+![DBEAVER](https://img.shields.io/badge/DBEAVER-%2320232a.svg?style=for-the-badge&logo=dbeaver&logoColor=blue)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
