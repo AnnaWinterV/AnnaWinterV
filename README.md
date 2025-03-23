@@ -33,7 +33,8 @@
 
 
 
-### 🦝  Pet-проекты  :
+### ![image](https://github.com/user-attachments/assets/77751f00-14f2-4598-a15b-dbe24a8e636a)
+  Pet-проекты  :
 
 ---
 
