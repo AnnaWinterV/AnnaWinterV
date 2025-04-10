@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/anna-vakhrusheva-w">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <img src="https://perm.hh.ru/resume/7f1ba4dcff0e4818ae0039ed1f6d6c6a726e50" alt="HeadHunter Badge"/>
+  </a>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
