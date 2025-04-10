@@ -10,16 +10,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anna-vakhrusheva-w">
+  <a href="https://www.linkedin.com/in/anna-vakhrusheva-859448357/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://perm.hh.ru/resume/7f1ba4dcff0e4818ae0039ed1f6d6c6a726e50">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"(https://t.me/AnnaV_Winter)/>
+  <a href="https://t.me/AnnaV_Winter">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-[![Telegram Badge](https://img.shields.io/badge/-AnnaV_Winter-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnnaV_Winter) 
 
 ### :woman_technologist: Обо мне :
 
