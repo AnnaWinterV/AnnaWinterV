@@ -15,7 +15,7 @@
   </a>
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"(https://t.me/AnnaV_Winter)/>
   </a>
 </div>
 
