@@ -60,6 +60,8 @@
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-6DA55F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLITE-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2361DAFB)
 ![DBEAVER](https://img.shields.io/badge/DBEAVER-371777?style=for-the-badge&logo=dbeaver&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-F7DF1E?style=for-the-badge&logo=ClickHouse&logoColor=black)
+
 
 ---
 
