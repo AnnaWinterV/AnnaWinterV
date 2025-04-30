@@ -30,7 +30,7 @@
 ### 🗞️ Дипломы и Сертификаты  :
 - <a href="https://drive.google.com/file/d/1NNG7NWS5XWw1orC02CXbJhM4GNDda4Yn/view?usp=sharing" rel="nofollow">Диплом об образовании</a>
 - <a href="https://drive.google.com/file/d/1JYnLc0yos55Y0gRdiczv4QRz3nPetUNo/view?usp=sharing" rel="nofollow">Диплом о переподготовке</a>
-- <a href="https://drive.google.com/file/d/1_OGegvXy19Pj2bMTEecshGINV2Crt5lG/view?usp=sharing" rel="nofollow">Оконные фенкции в SQL (Stepik)</a>
+- <a href="https://drive.google.com/file/d/1AzPPQglkYezlD_g-z04qOEx4BOPNyDdt/view?usp=sharing" rel="nofollow">Оконные функции в SQL (Stepik)</a>
 - <a href="https://drive.google.com/file/d/1tZRNWlpye20SVWUFuHd4yLAcQSq9aOD-/view?usp=sharing" rel="nofollow">Марафон данных (Stepik)</a>
 
 
