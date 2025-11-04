@@ -92,10 +92,6 @@
 ### 💬 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaWinterV&show_icons=true&theme=tokyonight)
 
 ---
 
