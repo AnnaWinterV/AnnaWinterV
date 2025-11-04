@@ -46,9 +46,9 @@
 
 ---
 
+### :hammer_and_wrench: Skills :
 
 ---
-### :hammer_and_wrench: Навыки и умения :
 
 ### 💻 Languages
 
