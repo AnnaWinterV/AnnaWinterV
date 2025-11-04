@@ -45,6 +45,10 @@
 - <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
 
 ---
+### 💬 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
 ### :hammer_and_wrench: Навыки и умения :
 
 ### 🐍 Data Science & Python Stack
