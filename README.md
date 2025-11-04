@@ -45,6 +45,8 @@
 - <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
 
 ---
+### :hammer_and_wrench: Навыки и умения :
+
 ### 🐍 Data Science & Python Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,27 +83,6 @@
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A0C9?style=for-the-badge&logo=apache-superset&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
-
-### :hammer_and_wrench: Навыки и умения :
-![PYTHON](https://img.shields.io/badge/PYTHON-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![PANDAS](https://img.shields.io/badge/PANDAS-%23593d88.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NUMPY](https://img.shields.io/badge/NUMPY-black?style=for-the-badge&logo=numpy&logoColor=white)
-![SKLEARN](https://img.shields.io/badge/SKLEARN-%2338B2AC.svg?style=for-the-badge&logo=sklearn&logoColor=white)
-![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter%20Notebook-316192?style=for-the-badge&logo=JupyterNotebook&logoColor=white)
-
-![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-black?style=for-the-badge&logo=matplotlib&logoColor=white)
-![SEABORN](https://img.shields.io/badge/SEABORN-%23E0234E.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![PLOTLY](https://img.shields.io/badge/PLOTLY-%230081CB.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![YANDEX DATALENS](https://img.shields.io/badge/yandex%20datalens-black?style=for-the-badge&logo=yandexdatalens&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-6DA55F?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLITE-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2361DAFB)
-![DBEAVER](https://img.shields.io/badge/DBEAVER-371777?style=for-the-badge&logo=dbeaver&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-F7DF1E?style=for-the-badge&logo=ClickHouse&logoColor=black)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-F7DF1E?style=for-the-badge&logo=ClickHouse&logoColor=black)
 
 
 ---
