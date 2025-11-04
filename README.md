@@ -53,8 +53,6 @@
 
 ### :hammer_and_wrench: Skills<br><br>
 
-<p align="center">
-
   <!-- 💻 Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
