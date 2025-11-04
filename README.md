@@ -101,9 +101,18 @@
 
 ### 📫 Связаться со мной
 
-[![Telegram Badge](https://img.shields.io/badge/-AnnaV_Winter-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnnaV_Winter)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-vakhrusheva-859448357/)  
-[![HeadHunter Badge](https://img.shields.io/badge/-HeadHunter-E4405F?style=flat&logo=headhunter&logoColor=white)](https://perm.hh.ru/resume/7f1ba4dcff0e4818ae0039ed1f6d6c6a726e50)
+<p align="center">
+  <a href="https://t.me/AnnaV_Winter">
+    <img src="https://img.shields.io/badge/-AnnaV_Winter-1DA1F2?style=flat&logo=Telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anna-vakhrusheva-859448357/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://perm.hh.ru/resume/7f1ba4dcff0e4818ae0039ed1f6d6c6a726e50">
+    <img src="https://img.shields.io/badge/-HeadHunter-F64F5C?style=flat&logo=headhunter&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
@@ -112,10 +121,7 @@
   <br><sub>Количество просмотров профиля</sub>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnnaWinterV&style=flat-square&color=blue" alt=""/>
-  <br><sub>Количество просмотров профиля</sub>
-</p>
+
 
   
 
