@@ -45,11 +45,17 @@
 - <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>
 
 ---
-### 💬 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
+
 
 ---
 ### :hammer_and_wrench: Навыки и умения :
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ### 🐍 Data Science & Python Stack
 
@@ -88,10 +94,10 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 💬 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
 ---
 
