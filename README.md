@@ -2,6 +2,7 @@
   Всем привет! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
   Я Анна, и я — Аналитик данных
+  <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
 </h2>
 
 <div id="header" align="center">
