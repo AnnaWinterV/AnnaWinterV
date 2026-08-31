@@ -93,6 +93,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight&hide=html,css)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
+
 ---
 
 ### 📫 Связаться со мной
