@@ -91,7 +91,7 @@
 ### 💬 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight&forks=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
 ---
 
