@@ -91,8 +91,6 @@
 ### 💬 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=AnnaWinterV&theme=tokyonight)
-
 ---
 
 ### 📫 Связаться со мной
