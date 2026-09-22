@@ -1,7 +1,11 @@
 <h2 align="center">
   Всем привет! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
-  Я Анна, и я — Аналитик данных / ML Engineer <br><br>
+  
+  Меня зовут Анна. Я **Big Data Analyst**, специализируюсь на работе с телематическими данными электромобилей. 
+  В своей ежедневной работе я занимаюсь оптимизацией pandas-пайплайнов, построением скоринговых моделей и работой с большими данными (ClickHouse, Redis, SQL).
+  
+  Здесь нет моих рабочих проектов, этот репозиторий посвящен моим **pet-проектам**. <br><br>
   <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
 </h2>
 
