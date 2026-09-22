@@ -1,7 +1,7 @@
 <h2 align="center">
   Всем привет! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
-  Я Анна, и я — Аналитик данных <br><br>
+  Я Анна, и я — Аналитик данных / ML Engineer <br><br>
   <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
 </h2>
 
@@ -41,8 +41,8 @@
 - 📘 <a href="https://stepik.org/cert/2951533" rel="nofollow">Программирование на Python (Stepik)</a>
 - 📘 <a href="https://stepik.org/cert/3125525" rel="nofollow">Основы Git и GitHub (Stepik)</a>
 
-
 ---
+
 ### :octocat: Pet-проекты:
 
 Я структурировала свои проекты по направлениям для удобного ознакомления. Каждый проект содержит подробное описание, стек технологий и результаты:
@@ -54,11 +54,12 @@
 * 🎨 **[Текстовое редактирование лиц](./Deep_Learning_CV/face_editor/)**: Интеграция StyleGAN2 и CLIP для управления атрибутами лица через текстовые промпты (W-space optimization).
 
 **🌱 Начало пути: Анализ данных и Классический ML:**
-* 📉 **[Прогноз оттока клиентов (Телеком)](./Начало_пути/)**: EDA, CatBoost + оптимизация гиперпараметров через Optuna, **ROC-AUC 0.851**.
-* 🛒 **[Оптимизация товарного ассортимента](./Начало_пути/)**: SQL, сегментация данных, построение дашбордов в Yandex DataLens.
-* 🧪 **[Аудит A/B-тестирования](./Начало_пути/)**: Проверка валидности тестов, статистический анализ и предотвращение ошибочных бизнес-решений.
+* 📉 **[Прогноз оттока клиентов (Телеком)](./Beginner_Projects/)**: EDA, CatBoost + оптимизация гиперпараметров через Optuna, **ROC-AUC 0.851**.
+* 🛒 **[Оптимизация товарного ассортимента](./Beginner_Projects/)**: SQL, сегментация данных, построение дашбордов в Yandex DataLens.
+* 🧪 **[Аудит A/B-тестирования](./Beginner_Projects/)**: Проверка валидности тестов, статистический анализ и предотвращение ошибочных бизнес-решений.
 
 ---
+
 ### :hammer_and_wrench: Skills<br><br>
 
 ### 🐍 Data Science & Python Stack
@@ -67,6 +68,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
 
 ---
 
@@ -75,6 +78,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -89,10 +93,10 @@
 
 ### ⚙️ DevOps & ML Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A0C9?style=for-the-badge&logo=apache-superset&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -100,8 +104,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
 
 ---
-
-
 
 ### 📫 Связаться со мной
 
@@ -117,16 +119,12 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnnaWinterV&style=flat-square&color=blue" alt=""/>
   <br><sub>Количество просмотров профиля</sub>
 </p>
-
-
-
   
 
 
