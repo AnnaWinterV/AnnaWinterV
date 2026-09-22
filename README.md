@@ -8,7 +8,7 @@
   <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
 </h2>
 
-<h3 align="center" style="font-size: 1.3em; font-weight: 600; line-height: 1.5;">
+<h3 align="center" style="font-size: 1.2em; font-weight: 600; line-height: 1.5;">
   Всем привет! Меня зовут Анна.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
   Я Big Data Analyst, работаю с телематическими данными электромобилей. 
