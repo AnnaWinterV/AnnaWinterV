@@ -1,4 +1,4 @@
-<h1 align="center">
+<h3 align="center">
   Всем привет! Меня зовут Анна.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
   Я Big Data Analyst, работаю с телематическими данными электромобилей. 
