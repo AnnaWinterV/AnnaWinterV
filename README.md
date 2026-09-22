@@ -1,4 +1,4 @@
-<h3 align="center">
+<h2 align="center">
   Всем привет! Меня зовут Анна.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
   Я Big Data Analyst, работаю с телематическими данными электромобилей. 
@@ -7,6 +7,16 @@
   Здесь нет моих рабочих проектов, этот репозиторий посвящен моим pet-проектам. <br><br>
   <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
 </h2>
+
+<h3 align="center" style="font-size: 1.35em; font-weight: 600; line-height: 1.5;">
+  Всем привет! Меня зовут Анна.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
+  Я Big Data Analyst, работаю с телематическими данными электромобилей. 
+  Занимаюсь оптимизацией pandas-пайплайнов, построением скоринговых моделей и работой с большими данными (ClickHouse, Redis, SQL).    
+  
+  Здесь нет моих рабочих проектов, этот репозиторий посвящен моим pet-проектам. <br><br>
+  <a href="https://github.com/AnnaWinterV/My-projects">Мои проекты</a>  
+</h3>
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJrMW9vZjZnNDQ0NjB6eHFpamcwenYwZ2ljNXEyODc4d251c3BvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif" width="100"/>
