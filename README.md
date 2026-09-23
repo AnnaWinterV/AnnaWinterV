@@ -53,8 +53,6 @@
 
 ### :octocat: Pet-проекты:
 
-Я структурировала свои проекты по направлениям для удобного ознакомления. Каждый проект содержит подробное описание, стек технологий и результаты:
-
 **🚀 Deep Learning & Computer Vision:**
 *  **[Классификация персонажей "Симпсонов"](./Deep_Learning_CV/simpsons_classification/)**: Transfer Learning (ResNet18), Fine-tuning, **F1-score 0.99256** на Kaggle.
 *  **[Детекция транспорта с БПЛА](./Deep_Learning_CV/vehicle_detection/)**: YOLO11m (`imgsz=960`), разработка backend (FastAPI) и деплой MVP веб-приложения (Streamlit). *[🌐 Живое демо](https://drone-detector.streamlit.app/)*
