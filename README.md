@@ -53,16 +53,18 @@
 
 ### :octocat: Pet-проекты:
 
+
+**🌱 Анализ данных и Классический ML:**
+*  **[Прогноз оттока клиентов (Телеком)](./Beginner_Projects/)**: EDA, CatBoost + оптимизация гиперпараметров через Optuna, **ROC-AUC 0.851**.
+*  **[Оптимизация товарного ассортимента](./Beginner_Projects/)**: SQL, сегментация данных, построение дашбордов в Yandex DataLens.
+*  **[Аудит A/B-тестирования](./Beginner_Projects/)**: Проверка валидности тестов, статистический анализ и предотвращение ошибочных бизнес-решений.
+
+
 **🚀 Deep Learning & Computer Vision:**
 *  **[Классификация персонажей "Симпсонов"](./Deep_Learning_CV/simpsons_classification/)**: Transfer Learning (ResNet18), Fine-tuning, **F1-score 0.99256** на Kaggle.
 *  **[Детекция транспорта с БПЛА](./Deep_Learning_CV/vehicle_detection/)**: YOLO11m (`imgsz=960`), разработка backend (FastAPI) и деплой MVP веб-приложения (Streamlit). *[🌐 Живое демо](https://drone-detector.streamlit.app/)*
 *  **[Исследование автоэнкодеров](./Deep_Learning_CV/autoencoders/)**: Vanilla AE, VAE, CVAE и Denoising AE "с нуля" на PyTorch, семантический поиск лиц.
 *  **[Текстовое редактирование лиц](./Deep_Learning_CV/face_editor/)**: Интеграция StyleGAN2 и CLIP для управления атрибутами лица через текстовые промпты (W-space optimization).
-
-**🌱 Начало пути: Анализ данных и Классический ML:**
-*  **[Прогноз оттока клиентов (Телеком)](./Beginner_Projects/)**: EDA, CatBoost + оптимизация гиперпараметров через Optuna, **ROC-AUC 0.851**.
-*  **[Оптимизация товарного ассортимента](./Beginner_Projects/)**: SQL, сегментация данных, построение дашбордов в Yandex DataLens.
-*  **[Аудит A/B-тестирования](./Beginner_Projects/)**: Проверка валидности тестов, статистический анализ и предотвращение ошибочных бизнес-решений.
 
 
 ---
