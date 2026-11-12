@@ -42,28 +42,9 @@
 * **[Оптимизация товарного ассортимента](./Analytics_Cases/)**: Агрегация данных через SQL, сегментация товарной матрицы (ABC/XYZ-анализ), выявление драйверов выручки и неликвидов, создание интерактивного дашборда в **Yandex DataLens**.
 * **[Прогнозирование оттока клиентов (Телеком)](./Analytics_Cases/)**: Разведочный анализ (EDA), генерация признаков (Feature Engineering), построение скоринговой модели на базе CatBoost (**ROC-AUC = 0.851**) и выделение ключевых триггеров ухода клиентов для отдела удержания.
 
----
-
-
-
- 
 
 ---
 
-### 🗞️ Дипломы и Сертификаты:
-
-- 🎓 <a href="https://drive.google.com/file/d/1NNG7NWS5XWw1orC02CXbJhM4GNDda4Yn/view?usp=sharing" rel="nofollow">Диплом об образовании</a>  
-- 🎓 <a href="https://drive.google.com/file/d/1JYnLc0yos55Y0gRdiczv4QRz3nPetUNo/view?usp=sharing" rel="nofollow">Диплом о переподготовке</a>
-- 🎓 <a href="https://drive.google.com/file/d/1MZTrKT5qug91GeBc7qujSspaI_Sag25f/view?usp=sharing" rel="nofollow">Глубокое обучение по нейронным сетям и компьютерному зрению (МФТИ на Stepik)</a>  
-- 📘 <a href="https://drive.google.com/file/d/1AzPPQglkYezlD_g-z04qOEx4BOPNyDdt/view?usp=sharing" rel="nofollow">Оконные функции в SQL (Stepik)</a>  
-- 📘 <a href="https://drive.google.com/file/d/1tZRNWlpye20SVWUFuHd4yLAcQSq9aOD-/view?usp=sharing" rel="nofollow">Марафон данных (Stepik)</a>  
-- 📘 <a href="https://stepik.org/cert/2951533" rel="nofollow">Программирование на Python (Stepik)</a>
-- 📘 <a href="https://stepik.org/cert/3125525" rel="nofollow">Основы Git и GitHub (Stepik)</a>
-
----
-
-
----
 ### 🛠️ Technical Skills
 
 #### 🐍 Data Analysis & Python Stack
@@ -108,11 +89,17 @@
 
 ---
 
+### 🗞️ Дипломы и Сертификаты:
 
+- 🎓 <a href="https://drive.google.com/file/d/1NNG7NWS5XWw1orC02CXbJhM4GNDda4Yn/view?usp=sharing" rel="nofollow">Диплом об образовании</a>  
+- 🎓 <a href="https://drive.google.com/file/d/1JYnLc0yos55Y0gRdiczv4QRz3nPetUNo/view?usp=sharing" rel="nofollow">Диплом о переподготовке</a>
+- 🎓 <a href="https://drive.google.com/file/d/1MZTrKT5qug91GeBc7qujSspaI_Sag25f/view?usp=sharing" rel="nofollow">Глубокое обучение по нейронным сетям и компьютерному зрению (МФТИ на Stepik)</a>  
+- 📘 <a href="https://drive.google.com/file/d/1AzPPQglkYezlD_g-z04qOEx4BOPNyDdt/view?usp=sharing" rel="nofollow">Оконные функции в SQL (Stepik)</a>  
+- 📘 <a href="https://drive.google.com/file/d/1tZRNWlpye20SVWUFuHd4yLAcQSq9aOD-/view?usp=sharing" rel="nofollow">Марафон данных (Stepik)</a>  
+- 📘 <a href="https://stepik.org/cert/2951533" rel="nofollow">Программирование на Python (Stepik)</a>
+- 📘 <a href="https://stepik.org/cert/3125525" rel="nofollow">Основы Git и GitHub (Stepik)</a>
 
-
-
-
+--- 
 
 
 ### 💬 Top Languages
@@ -142,36 +129,3 @@
 </p>
 
 
-
-
-
-  
-
-
-
-
-
-### 🛠️ Technical Skills
-
-#### 🐍 Data Analysis & Python Stack
-*Оптимизация вычислений, векторизация, чанкинг, работа с большими объемами данных*
-
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCD00?style=for-the-badge&logo=catboost&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-#### 🗃️ Databases & Big Data Tools
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-#### 📈 Data Visualization & BI
-![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
-![Matplotlib](
