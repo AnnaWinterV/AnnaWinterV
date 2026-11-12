@@ -45,14 +45,6 @@
 ---
 
 
-### :woman_technologist: Обо мне :
-
-- **Аналитическое мышление**:   
-Умею видеть за цифрами реальные бизнес-процессы (15 лет в автоиндустрии) и проектировать под них архитектуру решений.
-- **Фокус на результат**:   
-Превращаю сложные потоковые данные (телематика) в работающие бизнес-решения и скоринговые модели.
-- **Открыта к диалогу**:   
-Интересуют задачи на стыке аналитики, инженерии данных и Machine Learning, где можно приносить реальную пользу продукту.
 
  
 
@@ -69,21 +61,6 @@
 - 📘 <a href="https://stepik.org/cert/3125525" rel="nofollow">Основы Git и GitHub (Stepik)</a>
 
 ---
-
-### :octocat: Pet-проекты:
-
-
-**🌱 Анализ данных и Классический ML:**
-*  **[Прогноз оттока клиентов (Телеком)](./Beginner_Projects/)**: EDA, CatBoost + оптимизация гиперпараметров через Optuna, **ROC-AUC 0.851**.
-*  **[Оптимизация товарного ассортимента](./Beginner_Projects/)**: SQL, сегментация данных, построение дашбордов в Yandex DataLens.
-*  **[Аудит A/B-тестирования](./Beginner_Projects/)**: Проверка валидности тестов, статистический анализ и предотвращение ошибочных бизнес-решений.
-
-
-**🚀 Deep Learning & Computer Vision:**
-*  **[Классификация персонажей "Симпсонов"](./Deep_Learning_CV/simpsons_classification/)**: Transfer Learning (ResNet18), Fine-tuning, **F1-score 0.99256** на Kaggle.
-*  **[Детекция транспорта с БПЛА](./Deep_Learning_CV/vehicle_detection/)**: YOLO11m (`imgsz=960`), разработка backend (FastAPI) и деплой MVP веб-приложения (Streamlit). *[🌐 Живое демо](https://drone-detector.streamlit.app/)*
-*  **[Исследование автоэнкодеров](./Deep_Learning_CV/autoencoders/)**: Vanilla AE, VAE, CVAE и Denoising AE "с нуля" на PyTorch, семантический поиск лиц.
-*  **[Текстовое редактирование лиц](./Deep_Learning_CV/face_editor/)**: Интеграция StyleGAN2 и CLIP для управления атрибутами лица через текстовые промпты (W-space optimization).
 
 
 ---
@@ -133,6 +110,34 @@
 ![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
 
 ---
+
+
+### 🛠️ Technical Skills
+
+#### 🐍 Data Analysis & Python Stack
+*Оптимизация вычислений, векторизация, чанкинг, работа с большими объемами данных*
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCD00?style=for-the-badge&logo=catboost&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 🗃️ Databases & Big Data Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+#### 📈 Data Visualization & BI
+![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white)
+![Matplotlib](
+
+
 
 ### 💬 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaWinterV&layout=compact&theme=tokyonight)
