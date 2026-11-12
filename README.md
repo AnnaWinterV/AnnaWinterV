@@ -38,12 +38,9 @@
 
 ### 📊 Аналитические кейсы и исследования
 
-
-### 📊 Аналитические кейсы и исследования
-
-- **[Аудит A/B-тестирования](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases)**: Проверка корректности сплитования (A/A-тест), оценка статистической значимости изменений (t-тест, критерий Манна — Уитни), выявление ошибок дизайна эксперимента и защита бизнеса от неэффективных решений.
-- **[Оптимизация товарного ассортимента](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases)**: Агрегация данных через SQL, сегментация товарной матрицы (ABC/XYZ-анализ), выявление драйверов выручки и неликвидов, создание интерактивного дашборда в **Yandex DataLens**.
-- **[Прогнозирование оттока клиентов (Телеком)](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases)**: Разведочный анализ (EDA), генерация признаков (Feature Engineering), построение скоринговой модели на базе CatBoost (**ROC-AUC = 0.851**) и выделение ключевых триггеров ухода клиентов для отдела удержания.
+- **[Аудит A/B-тестирования](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases/ab_test_audit)**: Проверка корректности сплитования (A/A-тест), оценка статистической значимости изменений (t-тест, критерий Манна — Уитни), выявление ошибок дизайна эксперимента и защита бизнеса от неэффективных решений.
+- **[Оптимизация товарного ассортимента](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases/product_assortment)**: Агрегация данных через SQL, сегментация товарной матрицы (ABC/XYZ-анализ), выявление драйверов выручки и неликвидов, создание интерактивного дашборда в **Yandex DataLens**.
+- **[Прогнозирование оттока клиентов (Телеком)](https://github.com/AnnaWinterV/My-projects/tree/main/Analytics_Cases/telecom_churn)**: Разведочный анализ (EDA), генерация признаков (Feature Engineering), построение скоринговой модели на базе CatBoost (**ROC-AUC = 0.851**) и выделение ключевых триггеров ухода клиентов для отдела удержания.
 
 > **Технический кругозор (R&D):** В свободное время исследую Computer Vision и деплой нейросетей (PyTorch, YOLO11, FastAPI, Streamlit) — подробнее в папке [Deep_Learning_CV](https://github.com/AnnaWinterV/My-projects/tree/main/Deep_Learning_CV).
 
