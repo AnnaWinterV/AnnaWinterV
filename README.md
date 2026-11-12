@@ -26,6 +26,34 @@
 
 ---
 
+<h2 align="center">
+  Всем привет! Меня зовут Анна.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br><br>
+  Я Data / Big Data Analyst с глубоким бэкграундом в автоиндустрии и логистике.<br>
+  Занимаюсь построением аналитических пайплайнов, оптимизацией расчетов на больших данных и переводом бизнес-задач на язык метрик.<br><br>
+  Здесь собраны мои открытые аналитические кейсы и исследования.<br><br>
+  <a href="https://github.com/AnnaWinterV/My-projects">Перейти в репозиторий проектов</a>  
+</h2>
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJrMW9vZjZnNDQ0NjB6eHFpamcwenYwZ2ljNXEyODc4d251c3BvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anna-vakhrusheva-859448357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://perm.hh.ru/resume/7f1ba4dcff0e4818ae0039ed1f6d6c6a726e50">
+    <img src="https://img.shields.io/badge/HeadHunter-E4405F?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter Badge"/>
+  </a>
+  <a href="https://t.me/AnnaV_Winter">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+---
+
+
 ### :woman_technologist: Обо мне :
 
 - **Аналитическое мышление**:   
