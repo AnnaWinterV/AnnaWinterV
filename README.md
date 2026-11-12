@@ -43,6 +43,8 @@
 * **[Прогнозирование оттока клиентов (Телеком)](./Analytics_Cases/)**: Разведочный анализ (EDA), генерация признаков (Feature Engineering), построение скоринговой модели на базе CatBoost (**ROC-AUC = 0.851**) и выделение ключевых триггеров ухода клиентов для отдела удержания.
 
 
+* **Технический кругозор (R&D):** В свободное время исследую Computer Vision и деплой нейросетей (PyTorch, YOLO11, FastAPI, Streamlit) — подробнее в папке [Deep_Learning_CV](https://github.com/AnnaWinterV/My-projects/tree/main/Deep_Learning_CV).
+
 ---
 
 ### 🛠️ Technical Skills
